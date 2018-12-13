@@ -3,12 +3,34 @@
     <title>Liwen Arts</title>
     <link href="https://jacoy.github.io/feed.xml" rel="self" />
     <link href="https://jacoy.github.io" />
-    <updated>2018-12-13T14:19:30+08:00</updated>
+    <updated>2018-12-13T14:54:14+08:00</updated>
     <author>
         <name>jacoyang</name>
     </author>
     <id>https://jacoy.github.io</id>
 
+    <entry>
+        <title>test2</title>
+        <author>
+            <name>jacoyang</name>
+        </author>
+        <link href="https://jacoy.github.io/test2.html"/>
+        <id>https://jacoy.github.io/test2.html</id>
+
+        <updated>2018-12-13T14:43:27+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jacoy.github.io/media/posts/2/1-wlZSLchvIAugDxrobwR7EQ.jpeg" alt="" />
+                    test2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jacoy.github.io/media/posts/2/1-wlZSLchvIAugDxrobwR7EQ.jpeg" alt="" />
+                test2
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>1</title>
         <author>
