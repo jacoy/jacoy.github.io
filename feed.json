@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Liwen Arts",
+    "description": "",
+    "home_page_url": "https://jacoy.github.io",
+    "feed_url": "https://jacoy.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jacoyang"
+    },
+    "items": [
+        {
+            "id": "https://jacoy.github.io/1.html",
+            "url": "https://jacoy.github.io/1.html",
+            "title": "1",
+            "summary": "测试图片",
+            "content_html": "<figure class=\"post__image post__image--full\" ><img src=\"https://jacoy.github.io/media/posts/1/4ff29e47810259.58872c8d387f3.jpg\" alt=\"测试图片\" width=\"1400\" height=\"933\">\n<figcaption >测试图片</figcaption>\n</figure>",
+            "image": "https://jacoy.github.io/media/posts/1/4ff29e47810259.58872c8d387f3.jpg",
+            "author": {
+                "name": "jacoyang"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-13T12:35:26+08:00",
+            "date_modified": "2018-12-13T12:48:04+08:00"
+        }
+    ]
+}
